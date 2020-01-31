@@ -1,6 +1,9 @@
-def create_an_empty_array
-  
+
+def one_plus_one
+  1+1
 end
+ 
+one_plus_one
 
 def create_an_array
   
