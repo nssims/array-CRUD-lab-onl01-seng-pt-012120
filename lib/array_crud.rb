@@ -1,4 +1,6 @@
-
+def my_children ["Markeeth","Levi","Jeremiah","Salome'"]
+  puts my_children
+end
 def one_plus_one
   1+1
 end
